@@ -124,7 +124,7 @@ If the script can't find your source/target, it will automatically print a list 
    ```
 3. Run the script:
    ```
-   python OneClick_Media_Forward_V2.py
+   python OneClick_Media_Forward.py
    ```
 4. First time only — it will ask for:
    - Your phone number (with country code, e.g. `+91XXXXXXXXXX`)
