@@ -211,19 +211,6 @@ Change the number to control speed:
 
 ---
 
-## .gitignore
-
-Create a `.gitignore` file in your repo to avoid accidentally uploading sensitive files:
-
-```
-forwarder_session.session
-forwarded_ids.txt
-__pycache__/
-*.pyc
-```
-
----
-
 ## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
