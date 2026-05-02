@@ -118,10 +118,6 @@ If the script can't find your source/target, it will automatically print a list 
 ## Step 5 — Run the Script
 
 1. Open Command Prompt
-2. Navigate to the folder where the script is saved:
-   ```
-   cd "C:\Users\YourName\Downloads"
-   ```
 3. Run the script:
    ```
    python OneClick_Media_Forward.py
